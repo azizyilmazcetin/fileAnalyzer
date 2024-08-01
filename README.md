@@ -61,14 +61,6 @@ Rapor oluşturmak için:
 
 `python report_generator.py`
 
-## Katkıda Bulunma
-
-Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya `issues` açarak geri bildirimde bulunun.
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
-
 ## İletişim
 
 - [GitHub Profilim](https://github.com/azizyilmazcetin)
